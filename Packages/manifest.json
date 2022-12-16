@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.unity.ai.navigation": "1.1.1",
+    "com.unity.render-pipelines.high-definition": "14.0.4"
+  }
+}
