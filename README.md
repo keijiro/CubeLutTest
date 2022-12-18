@@ -13,9 +13,9 @@ They're useful for grading the render output. I use the LUT approach for grading
 - Take a screenshot for grading.
 - Create a new project on DaVinci Resolve.
 - Change the Color Management settings in the project settings:
- - Color science: DaVinci YRGB Color Managed
- - Color processing mode: SDR Rec.709
- - Output color space: sRGB
+  - Color science: DaVinci YRGB Color Managed
+  - Color processing mode: SDR Rec.709
+  - Output color space: sRGB
 - Import the screenshot and change Input Color Space to sRGB.
 - Grade it on the Color page.
 - Generate LUT (right click menu on the clip) -> 17/33/65 Point Cube
